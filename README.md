@@ -18,7 +18,7 @@ This project is a full-stack cloud security solution that detects and automatica
 - `python-automation/` → Auto-detection and mitigation scripts  
 - `grafana/` → Dashboards and alerting  
 - `simulations/` → Attack test scenarios with results  
-- `rapport/` → PDF report (French or English)
+- `rapport/` → PDF report (English)
 
 ## 📄 Full Report  
 You can read the detailed academic report here:  
